@@ -9,3 +9,7 @@ Website: http://www.xtvonline.co.uk
 Github: https://github.com/la1tv  
 Website: https://www.la1tv.co.uk/  
 Blog: http://blog.la1tv.co.uk/  
+
+## Guild TV
+Github: https://github.com/guildtv  
+Website: http://guildtv.co.uk  
