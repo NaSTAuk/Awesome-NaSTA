@@ -8,6 +8,7 @@ Website: http://guildtv.co.uk
 ## LA1:TV (Lancaster)
 Github: https://github.com/la1tv  
 Website: https://www.la1tv.co.uk/  
+Wiki: https://confluence.la1tv.co.uk/
 Blog: http://blog.la1tv.co.uk/  
 
 ## XTV (Exeter)
